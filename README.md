@@ -120,7 +120,4 @@ No re-ranking is used.
 | Occluded-ReID | OCTAR | 85.0 | 87.5 |
 | Occluded-ReID | OCTAR + OLP | 85.7 | 88.4 |
 
-## Release Scope
-
-This repository contains source code and final experiment configurations only. Model weights, datasets, training logs, generated figures, and ablation-only launchers are intentionally excluded.
 
